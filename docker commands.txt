@@ -1,0 +1,2 @@
+ docker build -t micro-food .
+ docker run -p 4001:4001 micro-food
